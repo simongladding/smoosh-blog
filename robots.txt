@@ -1,1 +1,1 @@
-Sitemap: https://simongladding.github.io/test-blog/sitemap.xml
+Sitemap: https://smoosh.uk/sitemap.xml
