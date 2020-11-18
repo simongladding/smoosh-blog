@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Smoosh Startups Blog
-description: A blog about smooshing ideas together and turning them into products.
+description: A blog about smooshing great ideas together and turning them into products.
 github_username: simongladding
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "test-blog"
