@@ -1,1 +1,1 @@
-Sitemap: http://smoosh.uk/sitemap.xml
+Sitemap: http://smoosh.org/sitemap.xml
