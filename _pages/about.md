@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-A blog about turning ideas into products and the lessons learned along the way.
+A blog about smooshing great ideas together and turning them into products.
