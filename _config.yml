@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Smoosh Startups Blog
+title: Smoosh Blog
 description: A blog about smooshing great ideas together and turning them into products.
 github_username: simongladding
 # you can comment the below line out if your repo name is not different than your baseurl
